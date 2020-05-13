@@ -1,6 +1,6 @@
 # Compositional Layout Demo
 
-A demo app that shows how to build beautiful, modern UICollectionView layouts using iOS 13’s new UICollectionViewCompositionalLayout class.
+A demo app that shows how to build beautiful, modern UICollectionView layouts using iOS 13’s new UICollectionViewCompositionalLayout class, fully programmatically, without any storyboard or XIB files.
 
 UICollectionViewFlowLayout allows to make complex layouts, but is not as easy to create.
 UICollectionViewCompositionalLayout changes that by providing a simple solution for building complex layouts, lets you combine items in flexible visual arrangements.
